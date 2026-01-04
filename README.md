@@ -1,4 +1,4 @@
-! [image alt](https://github.com/psychotheoretical/hungry/blob/3e27f490a745f25a224ff2b37401d7d6ac498f62/52cd60d4-b95b-4081-a932-2a7d0b5ba95c~2.jpeg)
+![image alt](https://github.com/psychotheoretical/hungry/blob/3e27f490a745f25a224ff2b37401d7d6ac498f62/52cd60d4-b95b-4081-a932-2a7d0b5ba95c~2.jpeg)
 
 * hihihihi helloo
      _-_-_-_-_
